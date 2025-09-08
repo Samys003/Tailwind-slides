@@ -1,6 +1,6 @@
 # Tailwind-slides
 
-Projeto tailwind com galeria de slides
+Projeto Tailwind com galeria de slides
 
 ![projeto tailwind](./Img/projeto%20tailwind%20.png)
 
@@ -9,4 +9,10 @@ Projeto tailwind com galeria de slides
 
 * Html
 * Framework Tailwind com biblioteca Flowbite
+---
+
+[Linkedin](https://www.linkedin.com/in/samara-santos-9793131a1)
+
+[Instagram](https://www.instagram.com/samara.santtos03)
+
 ---

@@ -2,13 +2,15 @@
 
 Projeto Tailwind com galeria de slides
 
-![projeto tailwind](./Img/projeto%20tailwind%20.png)
+![projeto tailwind](./img/projeto%20tailwind.png)
 
 ---
-## linguagens ultilizadas:
+
+## linguagens ultilizadas
 
 * Html
 * Framework Tailwind com biblioteca Flowbite
+
 ---
 
 [Linkedin](https://www.linkedin.com/in/samara-santos-9793131a1)

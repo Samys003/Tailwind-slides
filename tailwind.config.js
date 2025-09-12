@@ -1,6 +1,10 @@
+const { plugin } = require('postcss');
+
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./index.html",],
+  content: ["./index.html",
+    "./node_modules/flowbite/**/*.js"
+  ],
   theme: {
     extend: {
       borderStyle: {
@@ -11,5 +15,6 @@ module.exports = {
       },
     },
   },
-  plugins: [],
+  plugins: [
+],
 }
